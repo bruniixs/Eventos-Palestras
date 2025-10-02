@@ -1,0 +1,2 @@
+create database dbEventos_Palestras;
+use dbEventos_Palestras;
